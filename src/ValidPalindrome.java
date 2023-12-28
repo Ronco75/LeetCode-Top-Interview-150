@@ -9,7 +9,4 @@ public class ValidPalindrome {
         return s.equals(reversedStr);
     }
 
-    public static void main(String[] args) {
-        System.out.println(isPalindrome("A man, a plan, a canal: Panama"));
-    }
 }
